@@ -29,4 +29,3 @@
 ```bash
 git clone https://github.com/kvarun0627/todo-drf-api.git
 cd todo-drf-api
-pip install -r requirements.txt
